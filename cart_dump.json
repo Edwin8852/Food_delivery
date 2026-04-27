@@ -1,0 +1,18 @@
+{
+  "id": "d6826f35-e041-45c4-9cdd-6471bbf9e29e",
+  "userId": "7176ecf1-6669-4ac8-958f-d30d8ae8f22d",
+  "menuItemId": "6a5d62fa-aa98-423a-8776-0a2c8fe825ad",
+  "quantity": 4,
+  "menuItem": {
+    "id": "6a5d62fa-aa98-423a-8776-0a2c8fe825ad",
+    "restaurantId": "7008aa1f-ff27-4d64-b36a-2f133912594f",
+    "name": "Bruschetta with Tomato & Basil",
+    "description": "Toasted bread with fresh tomatoes, garlic, and basil.",
+    "price": "250.00",
+    "imageUrl": "https://images.unsplash.com/photo-1572656631137-7935297eff55?w=400&q=80",
+    "category": "Starters",
+    "isAvailable": true,
+    "createdAt": "2026-04-01T06:52:32.710Z",
+    "updatedAt": "2026-04-01T06:52:32.710Z"
+  }
+}

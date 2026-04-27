@@ -1,0 +1,1 @@
+column Restaurant.updated_at does not exist

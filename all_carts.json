@@ -1,0 +1,128 @@
+[
+  {
+    "id": "d6826f35-e041-45c4-9cdd-6471bbf9e29e",
+    "userId": "7176ecf1-6669-4ac8-958f-d30d8ae8f22d",
+    "menuItemId": "6a5d62fa-aa98-423a-8776-0a2c8fe825ad",
+    "quantity": 4,
+    "menuItem": {
+      "id": "6a5d62fa-aa98-423a-8776-0a2c8fe825ad",
+      "restaurantId": "7008aa1f-ff27-4d64-b36a-2f133912594f",
+      "name": "Bruschetta with Tomato & Basil",
+      "description": "Toasted bread with fresh tomatoes, garlic, and basil.",
+      "price": "250.00",
+      "imageUrl": "https://images.unsplash.com/photo-1572656631137-7935297eff55?w=400&q=80",
+      "category": "Starters",
+      "isAvailable": true,
+      "createdAt": "2026-04-01T06:52:32.710Z",
+      "updatedAt": "2026-04-01T06:52:32.710Z"
+    }
+  },
+  {
+    "id": "ecbba985-dabf-4955-856c-ad9fce278e7d",
+    "userId": "97e5cbb6-28d3-457d-812b-3336a48121fb",
+    "menuItemId": "1e60b183-55d6-4f5d-80ac-a5d71c1783fe",
+    "quantity": 1,
+    "menuItem": {
+      "id": "1e60b183-55d6-4f5d-80ac-a5d71c1783fe",
+      "restaurantId": "49c176e2-a1c3-489c-bbe4-ab027cfb03a0",
+      "name": "Edamame",
+      "description": "Boiled soybeans with sea salt.",
+      "price": "180.00",
+      "imageUrl": "https://images.unsplash.com/photo-1609501676725-7186f017a4b5?w=400&q=80",
+      "category": "Starters",
+      "isAvailable": true,
+      "createdAt": "2026-04-01T06:52:32.758Z",
+      "updatedAt": "2026-04-01T06:52:32.758Z"
+    }
+  },
+  {
+    "id": "06c2d0d0-61e2-42f8-bc27-3308c836b7e0",
+    "userId": "97e5cbb6-28d3-457d-812b-3336a48121fb",
+    "menuItemId": "7cf3a02a-7f2e-40b0-83d7-a1f84bc7b343",
+    "quantity": 1,
+    "menuItem": {
+      "id": "7cf3a02a-7f2e-40b0-83d7-a1f84bc7b343",
+      "restaurantId": "c1b8c116-5976-4e8c-869f-4d3041e0be45",
+      "name": "Caprese Salad",
+      "description": "Fresh mozzarella, tomato, and basil with olive oil.",
+      "price": "200.00",
+      "imageUrl": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?w=400&q=80",
+      "category": "Starters",
+      "isAvailable": true,
+      "createdAt": "2026-04-01T06:52:32.770Z",
+      "updatedAt": "2026-04-01T06:52:32.770Z"
+    }
+  },
+  {
+    "id": "0bd3d876-550f-4c3e-8734-856af5db4026",
+    "userId": "97e5cbb6-28d3-457d-812b-3336a48121fb",
+    "menuItemId": "7072494f-c48d-40e3-81d1-da52d552b620",
+    "quantity": 2,
+    "menuItem": {
+      "id": "7072494f-c48d-40e3-81d1-da52d552b620",
+      "restaurantId": "7008aa1f-ff27-4d64-b36a-2f133912594f",
+      "name": "Garlic Bread with Herbs",
+      "description": "Crispy bread brushed with garlic butter and Italian herbs.",
+      "price": "200.00",
+      "imageUrl": "https://images.unsplash.com/photo-1541519227354-08fa5d50c44d?w=400&q=80",
+      "category": "Starters",
+      "isAvailable": true,
+      "createdAt": "2026-04-01T06:52:32.713Z",
+      "updatedAt": "2026-04-01T06:52:32.713Z"
+    }
+  },
+  {
+    "id": "cf841771-ad1f-410b-b816-d48e62b72473",
+    "userId": "3db6dec0-8d65-4042-a9dc-1dfc2e21f42f",
+    "menuItemId": "6a5d62fa-aa98-423a-8776-0a2c8fe825ad",
+    "quantity": 1,
+    "menuItem": {
+      "id": "6a5d62fa-aa98-423a-8776-0a2c8fe825ad",
+      "restaurantId": "7008aa1f-ff27-4d64-b36a-2f133912594f",
+      "name": "Bruschetta with Tomato & Basil",
+      "description": "Toasted bread with fresh tomatoes, garlic, and basil.",
+      "price": "250.00",
+      "imageUrl": "https://images.unsplash.com/photo-1572656631137-7935297eff55?w=400&q=80",
+      "category": "Starters",
+      "isAvailable": true,
+      "createdAt": "2026-04-01T06:52:32.710Z",
+      "updatedAt": "2026-04-01T06:52:32.710Z"
+    }
+  },
+  {
+    "id": "85fd53c1-520c-4066-97a2-53c82c98993c",
+    "userId": "3db6dec0-8d65-4042-a9dc-1dfc2e21f42f",
+    "menuItemId": "7072494f-c48d-40e3-81d1-da52d552b620",
+    "quantity": 1,
+    "menuItem": {
+      "id": "7072494f-c48d-40e3-81d1-da52d552b620",
+      "restaurantId": "7008aa1f-ff27-4d64-b36a-2f133912594f",
+      "name": "Garlic Bread with Herbs",
+      "description": "Crispy bread brushed with garlic butter and Italian herbs.",
+      "price": "200.00",
+      "imageUrl": "https://images.unsplash.com/photo-1541519227354-08fa5d50c44d?w=400&q=80",
+      "category": "Starters",
+      "isAvailable": true,
+      "createdAt": "2026-04-01T06:52:32.713Z",
+      "updatedAt": "2026-04-01T06:52:32.713Z"
+    }
+  },
+  {
+    "id": "b3343e3f-47db-4350-b1fa-a1fa131f9907",
+    "userId": "97e5cbb6-28d3-457d-812b-3336a48121fb",
+    "menuItemId": "b5c8e4f2-06ab-4d82-b53b-42ceac9934e5",
+    "quantity": 1,
+    "menuItem": {
+      "id": "b5c8e4f2-06ab-4d82-b53b-42ceac9934e5",
+      "restaurantId": "e3bc01bb-5e6f-49e1-9f0a-c2cbd8b7d967",
+      "name": "Chicken 65",
+      "description": "Spicy fried chicken chunks with curry leaves.",
+      "price": "320.00",
+      "imageUrl": "https://images.unsplash.com/photo-1599003810694-47a6b0e3b9bb?w=400&q=80",
+      "category": "Starters",
+      "isAvailable": true,
+      "createdAt": "2026-04-01T06:52:32.733Z",
+      "updatedAt": "2026-04-01T06:52:32.733Z"
+    }
+  }
+]
